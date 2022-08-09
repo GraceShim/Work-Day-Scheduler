@@ -11,7 +11,7 @@ The challenge had a starter code using Moment.js to work with date and time. The
 
 # Link
 * GitHub Repository: https://github.com/GraceShim/Work-Day-Scheduler.git
-* Webpage: 
+* Webpage: https://graceshim.github.io/Work-Day-Scheduler/
 
 # Author
 * Grace D. Shim https://github.com/GraceShim
