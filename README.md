@@ -10,7 +10,7 @@ The challenge had a starter code using Moment.js to work with date and time. The
 ![screenshot](/Assets/screenshot.PNG)
 
 # Link
-* GitHub Repository: 
+* GitHub Repository: https://github.com/GraceShim/Work-Day-Scheduler.git
 * Webpage: 
 
 # Author
